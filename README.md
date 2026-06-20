@@ -38,7 +38,8 @@ src/
 │
 ├── gui/
 │   ├── MainFrame.java
-│   └── screens/
+│   ├── MovieRecommendationFrame.java
+│   └── UserRecommendationFrame.java
 │
 └── main/
     └── Main.java
